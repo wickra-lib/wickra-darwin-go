@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/wickra-lib/wickra-darwin/actions/workflows/ci.yml/badge.svg)](https://github.com/wickra-lib/wickra-darwin/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/wickra-lib/wickra-darwin/branch/main/graph/badge.svg)](https://codecov.io/gh/wickra-lib/wickra-darwin)
-[![Go module](https://raw.githubusercontent.com/wickra-lib/.github/main/profile/badges/go.svg)](https://pkg.go.dev/github.com/wickra-lib/wickra-darwin-go)
+[![Go module](https://raw.githubusercontent.com/wickra-lib/.github/main/profile/badges/wickra-darwin/go.svg)](https://pkg.go.dev/github.com/wickra-lib/wickra-darwin-go)
 [![License: MIT OR Apache-2.0](https://img.shields.io/badge/license-MIT_OR_Apache--2.0-blue)](https://github.com/wickra-lib/wickra-darwin#license)
 
 **Deterministic evolutionary strategy search for Go, over the Wickra C ABI hub via cgo.**
